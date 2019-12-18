@@ -3,5 +3,6 @@
 Throughout this game...you are going through life, obstacles and in the end, will find your fate. Things may go absolutely amazing with being rich, or to a downfall by dying. Good luck and Have Fun!
 ---
 You’re born! Do you classify as a female or male?
+! [image](https://media.gettyimages.com/photos/babies-in-a-hospital-nursery-picture-id529709298?s=612x612)
 * [Female](Female.md)
 * [Male](Male.md)
