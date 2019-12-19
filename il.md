@@ -1,0 +1,3 @@
+## You died...
+---
+* [Start over?](home.md)
